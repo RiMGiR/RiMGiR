@@ -1,6 +1,6 @@
 ### Hi there 👋
 ---
-Junior Data Analyst
+Data Analyst
 
 Here are my technical skills
 
